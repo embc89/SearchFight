@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Proyecto.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "java .net \"java script\" php"
+    }
+  }
+}
